@@ -35,3 +35,18 @@
 
 ## Additional Context
 <!-- Anything reviewers should know: known limitations, follow-up work, related tickets -->
+
+---
+
+## How to Use This Template
+
+**For GitHub Web UI:** This template auto-loads when you create a pull request in this repository.
+
+**To Use Outside This Repository:**
+1. Download this file: [ai_assisted_change.md](https://raw.githubusercontent.com/LaForteDev81/ai-dev-standards/main/.github/PULL_REQUEST_TEMPLATE/ai_assisted_change.md)
+2. Copy the content into your PR description
+3. Fill in the sections relevant to your AI-assisted change
+4. Submit your PR with the completed checklist
+
+**To Add to Your Own Repository:**
+- Save the template to `.github/PULL_REQUEST_TEMPLATE/ai_assisted_change.md` in your repository for automatic loading on PR creation
